@@ -1,0 +1,3 @@
+@echo off
+echo Executing from compilation...
+java -Xmx1G -Xms1G -jar ./target/springrest-1.0-SNAPSHOT.jar
