@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sammwyy/spring-rest-api/main/docs/images/spring-icon.png" alt="Spring Logo" height="200px" />
-  <img src="https://raw.githubusercontent.com/sammwyy/spring-rest-api/main/docs/images/spring-icon.png" alt="Java Logo" height="200px" />
+  <img src="https://raw.githubusercontent.com/sammwyy/spring-rest-api/main/docs/images/java-icon.png" alt="Spring Logo" height="140px" />
+  <img src="https://raw.githubusercontent.com/sammwyy/spring-rest-api/main/docs/images/spring-icon.png" alt="Java Logo" height="140px" />
   <h1>
 </div>
 
@@ -17,13 +17,6 @@
       <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/sammwyy?color=EA4AAA&label=SPNSORS&logo=github%20sponsors&style=for-the-badge">
   </p>
 </p>
-
-<div align="center">
-  <h3 align="center">🔨 Built with ⚙️</h3>
-  <p align="center">
-    <img height="42px" src=".." />
-  </p>
-</div>
 
 ### 📦 Build and Deploy
 
